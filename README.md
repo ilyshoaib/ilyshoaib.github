@@ -2,7 +2,7 @@
 <hmtl>
     <head>
         <meta charset="utf-8">
-        <title>Coming Soon Page Design</title>
+        <title>SHOAIB's Porfolio</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     </head>
