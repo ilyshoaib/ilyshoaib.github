@@ -20,7 +20,7 @@
     
     
  <script>
- var countDownDate = new Date ("March 1, 2019 00:00:00").getTime();
+ var countDownDate = new Date ("July 20, 2023 00:00:00").getTime();
 
  var x = setInterval(function() {
 
