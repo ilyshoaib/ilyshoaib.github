@@ -37,7 +37,7 @@ document.getElementById("launch").innerHTML=days + "d " + hours + "h " + minutes
     
 if (distance < 0) {
     clearInterval(x);
-    document.getElementById('launch').innerHTML="EXPIRED";
+    document.getElementById('launch').innerHTML=" ";
     }
             
 }, 1000);
